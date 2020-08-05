@@ -23,13 +23,15 @@ function TeacherList() {
                         { value: 'Matemática', label: 'Matemática'},
                         { value: 'Português', label: 'Português'},
                         { value: 'Química', label: 'Química'},
+                        { value: 'Inglês', label: 'Inglês'},
+                        { value: 'História', label: 'História'},
                     ]}    
                 />
                 <Select 
                     name="subject" 
                     label="Matéria" 
                     options={[
-                        { value: '0', label: 'Segunda-feira'},
+                        { value: '0', label: 'Domingo'},
                         { value: '1', label: 'Segunda-feira'},
                         { value: '2', label: 'Terça-feira'},
                         { value: '3', label: 'Quarta-feira'},

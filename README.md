@@ -4,7 +4,7 @@
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/marcelovqvd/">
-      <img alt="Rafael Goulart" src="https://img.shields.io/badge/-RafaelGoulartB-8257E5?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Marcelo Vasques" src="https://img.shields.io/badge/-MarceloVasques-8257E5?style=flat&logo=Linkedin&logoColor=white" />
    </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Marcelovqvd/Rocketseat---NextLevelWeek?color=774DD6">
 

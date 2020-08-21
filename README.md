@@ -42,8 +42,6 @@ Esse projeto foi desenvolvido utilizando-se das seguintes tecnologias:
 
 * [Typescript](https://www.typescriptlang.org/)      
 * [React](https://reactjs.org/)      
-* [Expo](https://expo.io/)       
-* [Express](https://expressjs.com/) 
 
 # :rocket: Funcionalidades
 

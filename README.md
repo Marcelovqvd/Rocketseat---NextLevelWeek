@@ -56,18 +56,16 @@ $ git clone https://github.com/Marcelovqvd/Rocketseat---NextLevelWeek.git
 ### 💻 Para executar o Project Web
 
 ```bash
-# Instale as depedencias
+# Instale as depedências
 $ yarn install
 
-# Rode a aplicação
+# Execute a aplicação
 $ yarn start
 ```
-Acesse: http://localhost:3000/ para ver o resultado.
+Acesse: http://localhost:3000/
 
 
-# :closed_book: Licencia
+# :closed_book: Licença
 
-Lançado em 2020 :closed_book: Licencia
-
-Made with love by [Marcelo Vasques](https://github.com/Marcelovqvd) 🚀.
-Esse projeto esta sobre [MIT license](./LICENSE).
+Lançado em junho de 2022 by [Marcelo Vasques Vedroni](https://github.com/Marcelovqvd) 🚀.
+Distribuído sob a licença MIT [MIT license](./LICENSE).
